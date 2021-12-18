@@ -1,0 +1,34 @@
+.enkrip1{
+	height: 300px;
+	width: 400px;
+	margin: 20px 50px;
+	float: left;
+}
+
+.enkrip2{
+	height: 300px;
+	width: 700px;
+	margin: 20px 50px;
+	float: right;
+}
+
+h3{
+	margin: 10px 50px;
+}
+
+
+.dekrip1{
+	height: 300px;
+	width: 400px;
+	margin: 20px 50px;
+	float: left;
+}
+
+.dekrip2{
+	height: 300px;
+	width: 700px;
+	margin: 20px 50px;
+	float: right;
+	
+
+}
